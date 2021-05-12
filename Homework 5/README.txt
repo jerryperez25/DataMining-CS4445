@@ -1,0 +1,2 @@
+Decompress "static" before continuing
+
